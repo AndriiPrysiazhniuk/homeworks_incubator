@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/css/main.a6f61279.css",
+    "main.css": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/css/main.84fe4c8b.css",
     "main.js": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/js/main.95b51410.js",
     "static/js/787.66cb4309.chunk.js": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/media/avatar.d947cb9d0d13765666b6.png",
     "index.html": "/AndriiPrysiazhniuk/homeworks_incubator.git/index.html",
-    "main.a6f61279.css.map": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/css/main.a6f61279.css.map",
+    "main.84fe4c8b.css.map": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/css/main.84fe4c8b.css.map",
     "main.95b51410.js.map": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/js/main.95b51410.js.map",
     "787.66cb4309.chunk.js.map": "/AndriiPrysiazhniuk/homeworks_incubator.git/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a6f61279.css",
+    "static/css/main.84fe4c8b.css",
     "static/js/main.95b51410.js"
   ]
 }

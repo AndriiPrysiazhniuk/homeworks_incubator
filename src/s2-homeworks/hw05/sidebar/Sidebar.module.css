@@ -1,25 +1,41 @@
 .sidebar {
+display: none;
 }
 
 .sidebar.open {
+    display: block;
+    width: 317px;
 }
 
 .background {
 }
 
 .nav {
+align-items: center;
 }
 
 .nav a {
+    display: block;
+    width:max-content;
+    text-decoration: none;
+    color:#000;
+    font-weight: 600;
+    padding: 30px  0 15px;
 }
 
 .nav a:hover {
+    /*opacity: .5;*/
 }
 
 .nav a.active {
+color: #0059B2;
+    text-decoration: underline;
+    font-weight:600;
+    background-color: #fff;
 }
 .close {
 }
 
 .close img {
+
 }

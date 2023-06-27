@@ -11,7 +11,7 @@ import s from './HW7.module.css'
 * 4 - сделать стили в соответствии с дизайном
 * */
 
-const arr = [
+export const arr = [
     {id: 1, value: 'Pre-Junior'},
     {id: 2, value: 'Junior'},
     {id: 3, value: 'Junior +'},
